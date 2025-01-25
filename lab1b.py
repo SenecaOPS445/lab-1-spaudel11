@@ -1,5 +1,5 @@
 #!/usr/bin/env python3
 
-name = 'Issac'
+name = 'Isaac'
 
 print('How old are you Isaac?')
