@@ -41,11 +41,11 @@ OK
 OPS445 Lab Report - System Information for running ./CheckLab1.py
 =================================================================
     User login name: spaudel11
-    Git Email: sss.detonator@gmail.com
+    Git Email: spaudel11@myseneca.ca
     Linux system name: spaudel11
     Python executable: /usr/bin/python3
     Python version:  3.12.3 (main, Jan 17 2025, 18:03:48) [GCC 13.3.0]
     OS Platform: linux
     Working Directory: /home/spaudel11/ops445/lab1
-    Start at: Sat Jan 25 00:34:17 2025
+    Start at: Mon Jan 27 18:38:54 2025
 =================================================================
